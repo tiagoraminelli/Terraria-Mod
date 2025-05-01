@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
+*.vspscc
+*.vssscc
+*.userosscache
+*.sln.docstates
+
+# tModLoader build outputs
+*.tmod
+Build/
